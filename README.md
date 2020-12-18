@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi, I'm Andreea Matei</h1>
-<h3 align="center">I am an enthusiastic JS Fullstack Developer student at Codaisseur's Academy Amsterdam.</h3>
+<h3 align="center">I am an enthusiastic Junior JS Fullstack Developer!</h3>
 
 - 📫 How to reach me **alm.matei@gmail.com**
 
