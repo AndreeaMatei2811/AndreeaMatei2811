@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi, I'm Andreea Matei</h1>
 <h3 align="center">I am an enthusiastic Junior JS Fullstack Developer!</h3>
-<p align="left">I recently completed an intensive 11 weeks JS Full Stack Development bootcamp, and I am eager to begin a career in web development. As a new graduate, I am open to new opportunities that can help me continue to learn and grow as a developer.</p>
+<p align="left"> In October 2020 I joined an intensive 11 weeks Full Stack Development bootcamp at Codaisseur. This course gave me the chance to establish a solid basis for my new career path and to prepare me for a job in development.
+
+As a recent graduate, I am open to new opportunities that can help me continue to learn and grow as a developer. </p>
   
 - 📫 How to reach me **alm.matei@gmail.com**
 
